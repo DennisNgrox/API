@@ -1,8 +1,8 @@
-# script.js
+
 # API para consulta de CEP
 
 Linguagens:
 
-# JavaScript
+-> JavaScript
 
 Código de uma Requisição API para consulta de CEP
